@@ -1,15 +1,16 @@
-# Lern-Periode 5
+# Lern-Periode 1
 
-23.4 bis 25.6.2024
+30.8 bis 20.9.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-4. Was wäre ein geeignetes Projekt für diese LP5?
+Ich möchte lernen wie man besser Programiert, da ich noch nicht so gut bin. Am Dienstag haben wir zum Beispiel c# gemacht und das habe ich nicht so gut verstanden. Ich möchte mehr Programmiersprachen lernen, also am anfang will ich die Sprachen lernen, damit ich mehr verstehe. Ich würde ein Spiel mit einem Auto programieren. Ich möcht ein Roboter programmieren was dir fragen stellt und du musst die Fragen beantworten. Ein eigenes KI, was ungefähr wie Chatgpt ist. Das KI soll Fragen beantworten. 
 
-## 23.4.2024
+## 30.8.2024
+Ich Informiere mich über die Programmiersprachen und schaue auf Google oder Youtube nach Informationen, damit ich mehr Ahnung habe.
 
-✍️ Heute habe ich... (50-100 Wörter)
+
+
 
 ## 30.4.2024
 
