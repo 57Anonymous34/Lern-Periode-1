@@ -21,7 +21,7 @@ Heute habe ich mehr im Internet recherschiert, ich habe paar vVideos angeschaut 
 
 Für nächstes mal:
 [] Ich schaue nach wie man Dezimalzahlen rechenen kann und Ganzezahlen zusammen. 
-[] Der Benutzer guibt die ZAhken und es wird alles zusammen berechnet.
+[] Der Benutzer guibt die Zahlen und es wird alles zusammen berechnet.
 [] Den Taschenrechner verbessern.
 [] Falls ich fertig werde, schaue ich noch was ich alles noch machen kann.
 
@@ -29,3 +29,29 @@ Für nächstes mal:
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 20.09.2024
+Heute hab ich meinen Taschenrechner verbesert und auch noch ein bischen verschönert.Ich kann jetzt die Zahlen selber eingeben und die Lösung wird dan direkt angezeigt. Einen Notenrechner hab ich auch noch Programmiert, da ich schneller fertig geworden bin.
+## Reflektion Lern-Periode 1
+Bei dieser Lern-Periode hatte ich am Anfangh keinen Plann was ich machen wollte. Mein Projekt von dieser Lern-Periode ist ein Taschenrechner der Addieren, Subtrahieren, Dividiere und Multiplicieren kann. Heute habe ich sogar noch eien Notenberechner Programmiert weil ich noch Zeit hatte. Ich kann bei dem Taschen Rechner alle Ganzen und Nätürlichen Zahlen eingeben. Ich bin heute sogar fertig geworden. Leider hatte ich einen Unfall und konnte deswegen konnte nicht mehr am Projekt arbeiten, durch diesen Unfall habe ich 2 Wochen vom (Stoff) verpasst. Falls ich hilfe gebraucht habe, habe ich auf Youtubr nach Videos geschaut und Chatgpt gefragt oder natürlich den lieben Herr Colic gefragt. Durch das Gespräch mit dem Herr Colic konnte ich besser Programmieren, er hatte mir Tipps gegeben, die mir sehr geholfen haben. Wegen Ihn weiss ich was mein nächstes Projekt sein wird. Ich bin im Allgemeinen sehr zu frieden mit meinem Projekt, so habe ich es mir nicht vorgestellt, ich dachte es wird schlechter aussehen.
+
+## Beshreibung Projekt
+Ich muss eine Zahl eingeben, es kann Nätürliche und Ganze Zahlen sein, und dann muss ich die zweite Zahl eingeben oder vielleicht auch eine dritte Zahl und nachdem ich die Zahlen eingegeben habe, muss ich aud Enter drücken und dann wird die Lösung direkt angezeigt. Als erstes kommt Addieren dann Subtrahieren, Dividieren und Multiplicieren. Beim Notenberechner fragt er mich nach meiner Note, ich muss dann die Notze schreiben, dann fragt er mich nach einer anderen Noten und wenn ich sie eingeben habe rechnet es den Durchschnitt von den zwei Noten aus.
+
+
+
+
+## fertiges Projekt
+
+![Screenshot 2024-09-20 111540](https://github.com/user-attachments/assets/f8007f02-cbe5-42ac-b562-3e6f84eb03db)
+
+
+
+![Screenshot 2024-09-20 111635](https://github.com/user-attachments/assets/9186660e-0777-47ff-9be6-6476361740bb)
+
+
+
+
+
+
+
+
