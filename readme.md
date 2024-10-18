@@ -53,7 +53,7 @@ Bei dieser Lern-Periode hatte ich am Anfangh keinen Plann was ich machen wollte.
 
 ## 18.10.2024
 heute habe ich meine Arbeitspakete fertig gemacht. Ich habbe alle Verbesserungen gemacht. Ich musste mein Projekt leider ganz von vorne beginnen, da ich sehr viele Fehler hatte als ich angefangen hatte. Jetzt kann ich aussuchen was ich rechnen möchte (Addieren,..) und ich kann auch entscheiden mit wie vielen Zahlen es rechnen soll.
-## Fertiges projekt
+## Fertiges projekt nach Arbeitspakete
 
 ![image](https://github.com/user-attachments/assets/87ead58c-63e2-40cb-a183-0d8b21746f7c)
 
