@@ -60,7 +60,7 @@ heute habe ich meine Arbeitspakete fertig gemacht. Ich habbe alle Verbesserungen
 
 
 
-[Uploading arbeitspaket lernperiode1.sln…]()
+
 
 
 
