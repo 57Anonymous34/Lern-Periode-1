@@ -23,7 +23,7 @@ Ich habe einen Taschenrechner programmiert, es kann aber nur die Zahlen addieren
 Ich probiere ein Taschenrechner zu programmieren, da ich Mathe gern habe und ich mich sehr interresiere. Ich schaue noch im Internet noch weiter nach Informationen über die Programmier sprache c# 
 
 ✍️ Heute habe ich... 
-Heute habe ich mehr im Internet recherschiert, ich habe paar vVideos angeschaut was genau Visual Studio ist und was es noch für andere Programmier Apps es gibt. Ich ahbe heute Programmiert wie man Subrahieren, Dividieren, Multuplizieren und Addieren. Das Problem ist ich kann nur ganze Zahlen rechnen und das Resultat besteht auch nur aus Ganze Zahlen. Bei den Buchstaben muss ich eine Zahl eingen, die Zahl muss Ganz sein , dsas heisst keine Dezimalzahl und nacher rechnet es aus und sagtr dir die Lösung.
+Heute habe ich mehr im Internet recherchiert. Ich habe paar Videos angeschaut, was genau Visual Studio ist und was es noch für andere Programmierapps es gibt. Ich habe heute Programmiert wie man Subrahieren, Dividieren, Multiplizieren und Addieren. Das Problem ist: ich kann nur ganze Zahlen rechnen und das Resultat besteht auch nur aus ganzen Zahlen. Bei den Buchstaben muss ich eine Zahl eingeben, die Zahl muss ganz sein , das heisst keine Dezimalzahl und nacher rechnet es aus und sagt dir die Lösung.
 
 Für nächstes mal:
 [] Ich schaue nach wie man Dezimalzahlen rechenen kann und Ganzezahlen zusammen. 
@@ -38,7 +38,7 @@ Für nächstes mal:
 ## 20.09.2024
 Heute hab ich meinen Taschenrechner verbesert und auch noch ein bischen verschönert.Ich kann jetzt die Zahlen selber eingeben und die Lösung wird dan direkt angezeigt. Einen Notenrechner hab ich auch noch Programmiert, da ich schneller fertig geworden bin.
 ## Reflektion Lern-Periode 1
-Bei dieser Lern-Periode hatte ich am Anfangh keinen Plann was ich machen wollte. Mein Projekt von dieser Lern-Periode ist ein Taschenrechner der Addieren, Subtrahieren, Dividiere und Multiplicieren kann. Heute habe ich sogar noch eien Notenberechner Programmiert weil ich noch Zeit hatte. Ich kann bei dem Taschen Rechner alle Ganzen und Nätürlichen Zahlen eingeben. Ich bin heute sogar fertig geworden. Leider hatte ich einen Unfall und konnte deswegen konnte nicht mehr am Projekt arbeiten, durch diesen Unfall habe ich 2 Wochen vom (Stoff) verpasst. Falls ich hilfe gebraucht habe, habe ich auf Youtubr nach Videos geschaut und Chatgpt gefragt oder natürlich den lieben Herr Colic gefragt. Durch das Gespräch mit dem Herr Colic konnte ich besser Programmieren, er hatte mir Tipps gegeben, die mir sehr geholfen haben. Wegen Ihn weiss ich was mein nächstes Projekt sein wird. Ich bin im Allgemeinen sehr zu frieden mit meinem Projekt, so habe ich es mir nicht vorgestellt, ich dachte es wird schlechter aussehen.
+Bei dieser Lern-Periode hatte ich am Anfang keinen Plann was ich machen wollte. Mein Projekt von dieser Lern-Periode ist ein Taschenrechner der Addieren, Subtrahieren, Dividiere und Multiplizieren kann. Heute habe ich sogar noch eien Notenberechner Programmiert weil ich noch Zeit hatte. Ich kann bei dem Taschenrechner alle ganzen und nätürlichen Zahlen eingeben. Ich bin heute sogar fertig geworden. Leider hatte ich einen Unfall und konnte deswegen nicht mehr am Projekt arbeiten, durch diesen Unfall habe ich 2 Wochen vom (Stoff) verpasst. Falls ich hilfe gebraucht habe, habe ich auf Youtube nach Videos geschaut und Chatgpt gefragt oder natürlich den lieben Herr Colic gefragt. Durch das Gespräch mit dem Herr Colic konnte ich besser Programmieren, er hatte mir Tipps gegeben, die mir sehr geholfen haben. Wegen Ihn weiss ich was mein nächstes Projekt sein wird. Ich bin im Allgemeinen sehr zu frieden mit meinem Projekt, so habe ich es mir nicht vorgestellt, ich dachte es wird schlechter aussehen.
 
 
 
@@ -52,8 +52,8 @@ Bei dieser Lern-Periode hatte ich am Anfangh keinen Plann was ich machen wollte.
 ![Screenshot 2024-09-20 111635](https://github.com/user-attachments/assets/9186660e-0777-47ff-9be6-6476361740bb)
 
 ## 18.10.2024
-heute habe ich meine Arbeitspakete fertig gemacht. Ich habbe alle Verbesserungen gemacht. Ich musste mein Projekt leider ganz von vorne beginnen, da ich sehr viele Fehler hatte als ich angefangen hatte. Jetzt kann ich aussuchen was ich rechnen möchte (Addieren,..) und ich kann auch entscheiden mit wie vielen Zahlen es rechnen soll.
-## Fertiges projekt nach Arbeitspakete
+Heute habe ich meine Arbeitspakete fertig gemacht. Ich habbe alle Verbesserungen gemacht. Ich musste mein Projekt leider ganz von vorne beginnen, da ich sehr viele Fehler hatte als ich angefangen hatte. Ich habe mich entschieden es von Anfang zu beginnen. Jetzt kann ich aussuchen was ich rechnen möchte (Addieren,..) und ich kann auch entscheiden mit wie vielen Zahlen es rechnen soll.
+## fertiges Projekt nach Arbeitspakete
 
 ![image](https://github.com/user-attachments/assets/87ead58c-63e2-40cb-a183-0d8b21746f7c)
 
