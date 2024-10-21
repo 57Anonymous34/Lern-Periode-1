@@ -14,7 +14,7 @@ Ich muss eine Zahl eingeben, es kann natürliche und ganze Zahlen sein, und dann
 Ich Informiere mich über die Programmiersprachen und schaue auf Google oder Youtube nach Informationen, damit ich mehr Ahnung habe.
 
 ✍️ Heute habe ich... 
-Ich habe einen Taschenrechner programmiert, es kann aber nur die Zahlen addieren und Multiplikation. Ich habe mehr von der Sprache c# gelernt. Ich habe viel im Internet (Youtube, Chatgpt, Google) recherchiert und das hat mir viel merh geholfen. Jetzt versteh ich die Sprache C# besser, nicht so ganz aber viel besser als am Anfang: Ich wollte am Anfang es selber probieren aber dann merkte ich schnell das es nicht so einfach sei und dan hab ich im Internet Nachgeschgaut.
+Ich habe einen Taschenrechner programmiert, es kann aber nur die Zahlen addieren und Multiplikation. Ich habe mehr von der Sprache c# gelernt. Ich habe viel im Internet (Youtube, Chatgpt, Google) recherchiert und das hat mir viel merh geholfen. Jetzt versteh ich die Sprache C# besser, nicht so ganz aber viel besser als am Anfang: Ich wollte am Anfang es selber probieren aber dann merkte ich schnell das es nicht so einfach sei und dan habe ich im Internet Nachgeschgaut.
 
 
 
@@ -23,7 +23,7 @@ Ich habe einen Taschenrechner programmiert, es kann aber nur die Zahlen addieren
 Ich probiere ein Taschenrechner zu programmieren, da ich Mathe gern habe und ich mich sehr interresiere. Ich schaue noch im Internet noch weiter nach Informationen über die Programmier sprache c# 
 
 ✍️ Heute habe ich... 
-Heute habe ich mehr im Internet recherchiert. Ich habe paar Videos angeschaut, was genau Visual Studio ist und was es noch für andere Programmierapps es gibt. Ich habe heute Programmiert wie man Subrahieren, Dividieren, Multiplizieren und Addieren. Das Problem ist: ich kann nur ganze Zahlen rechnen und das Resultat besteht auch nur aus ganzen Zahlen. Bei den Buchstaben muss ich eine Zahl eingeben, die Zahl muss ganz sein , das heisst keine Dezimalzahl und nacher rechnet es aus und sagt dir die Lösung.
+Heute habe ich mehr im Internet recherchiert. Ich habe paar Videos angeschaut, was genau Visual Studio ist und was es noch für andere Programmierapps es gibt. Ich habe heute Programmiert wie man Subtrahieren, Dividieren, Multiplizieren und Addieren. Das Problem ist: ich kann nur ganze Zahlen rechnen und das Resultat besteht auch nur aus ganzen Zahlen. Bei den Buchstaben muss ich eine Zahl eingeben, die Zahl muss ganz sein , das heisst keine Dezimalzahl und nacher rechnet es aus und sagt dir die Lösung.
 
 Für nächstes mal:
 [] Ich schaue nach wie man Dezimalzahlen rechenen kann und Ganzezahlen zusammen. 
@@ -36,7 +36,7 @@ Für nächstes mal:
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 ## 20.09.2024
-Heute hab ich meinen Taschenrechner verbesert und auch noch ein bischen verschönert.Ich kann jetzt die Zahlen selber eingeben und die Lösung wird dan direkt angezeigt. Einen Notenrechner hab ich auch noch Programmiert, da ich schneller fertig geworden bin.
+Heute hab ich meinen Taschenrechner verbesert und auch noch ein bischen verschönert.Ich kann jetzt die Zahlen selber eingeben und die Lösung wird dan direkt angezeigt. Einen Notenrechner habe ich auch noch Programmiert, da ich schneller fertig geworden bin.
 ## Reflektion Lern-Periode 1
 Bei dieser Lern-Periode hatte ich am Anfang keinen Plann was ich machen wollte. Mein Projekt von dieser Lern-Periode ist ein Taschenrechner der Addieren, Subtrahieren, Dividiere und Multiplizieren kann. Heute habe ich sogar noch eien Notenberechner Programmiert weil ich noch Zeit hatte. Ich kann bei dem Taschenrechner alle ganzen und nätürlichen Zahlen eingeben. Ich bin heute sogar fertig geworden. Leider hatte ich einen Unfall und konnte deswegen nicht mehr am Projekt arbeiten, durch diesen Unfall habe ich 2 Wochen vom (Stoff) verpasst. Falls ich hilfe gebraucht habe, habe ich auf Youtube nach Videos geschaut und Chatgpt gefragt oder natürlich den lieben Herr Colic gefragt. Durch das Gespräch mit dem Herr Colic konnte ich besser Programmieren, er hatte mir Tipps gegeben, die mir sehr geholfen haben. Wegen Ihn weiss ich was mein nächstes Projekt sein wird. Ich bin im Allgemeinen sehr zu frieden mit meinem Projekt, so habe ich es mir nicht vorgestellt, ich dachte es wird schlechter aussehen.
 
