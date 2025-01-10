@@ -9,12 +9,15 @@
 
 ## 10.1.2025
 
-- [ ] ...
-- [ ] ...
+- [ ] Im Internet recherschieren, um einbischen Wissen zu haben.
+- [ ] Man soll seinen Namen eingeben, und das Projekt soll dich mit einen Willkommen grüssen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
+Ich habe leider nicht mit WinForm gearbeitet da es bei nicht nicht. Ich wollte die Zeit nicht verlieren.  Ich habe deswegen ein kleines Tasschenrechner programmiert.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+- [ ] Winform angangen
+- [ ] Infos sammeln im Internet
 
-## ...
+
 
