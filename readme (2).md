@@ -19,5 +19,14 @@ Ich habe leider nicht mit WinForm gearbeitet da es bei nicht nicht. Ich wollte d
 - [ ] Winform angangen
 - [ ] Infos sammeln im Internet
 
+## 17.01.2025
+Heute habe ich ein TicTacToe Spiel gemacht. Ich bin zufrieden. Das einzige Problem war, das nur Y Gewinnen kann und nicht X. Sonst funktioniert alles, man kann ein neues Spiel spielen, man kann das Spiel neustarten und auch beenden.
+
+## 24.01.2025
+- [ ] Das Problem herausfinden.
+- [ ] Fehler beheben und danach verbessern.(X soll auch gewinnen)
+- [ ] Falls ich noch Zeit habe, kann ich es verschönern.
+
+
 
 
