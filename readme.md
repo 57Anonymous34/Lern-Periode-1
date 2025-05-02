@@ -1,4 +1,4 @@
-# Lern-Periode 1
+# LernPeriode 1
 
 30.8 bis 20.9.2024
 
